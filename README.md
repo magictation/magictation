@@ -1,4 +1,4 @@
 - 👋 Hi
 - 👀 I’m interested in Web applications, JS & FE technologies, BE - Node.js 
 - 🌱 I’m currently learning WebRTC stack
-- 📫 How to reach me - just send an email to ldo19735@gmail.com
+- 📫 How to reach me - just send an email to lirikdim@gmail.com
